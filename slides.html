@@ -95,7 +95,7 @@ id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
 </section>
 <section id="at-nasbr-2025" class="slide level2">
 <h2>At NASBR 2025</h2>
-<p>Jorrit -&gt; Ariandna -&gt; Sonja -&gt; Meike -&gt; Bat1k data</p>
+<p>Jorrit -&gt; Ariadna -&gt; Sonja -&gt; Meike -&gt; Bat1k data</p>
 </section>
 <section id="google-sheet" class="slide level2">
 <h2>Google Sheet</h2>
@@ -118,10 +118,9 @@ https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2
 <p><img data-src="img/qrcode.png" style="height:75.0%"
 alt="signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999" />
 ]</p>
-<h3 id="automated-taxonomic-alignment-bat1k">Automated Taxonomic
-Alignment bat1k</h3>
-<p>Using Nomer <a href="#/fn3" class="footnote-ref" id="fnref3"
-role="doc-noteref"><sup>3</sup></a></p>
+</section>
+<section id="deriving-bat1k.tsv" class="slide level2">
+<h2>Deriving bat1k.tsv</h2>
 <pre><code>preston cat\
  hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999\
  | grep hasVersion\
@@ -133,11 +132,14 @@ role="doc-noteref"><sup>3</sup></a></p>
 <section id="taxonomic-alignement-through-nomer---find-mis-alignments"
 class="slide level2">
 <h2>Taxonomic Alignement through Nomer - Find (mis-)Alignments</h2>
+<p>Using Nomer <a href="#/fn3" class="footnote-ref" id="fnref3"
+role="doc-noteref"><sup>3</sup></a></p>
 <pre><code>cat bat1k.tsv\
  | nomer append\
- --properties $(echo &#39;nomer.schema.input=[{&quot;column&quot;:0,&quot;type&quot;:&quot;externalId&quot;},{&quot;column&quot;: 1,&quot;type&quot;:&quot;name&quot;}]&#39;)\
- | grep NONE\
- | cut -f2</code></pre>
+ --properties &lt;(echo &#39;nomer.schema.input=[{&quot;column&quot;:0,&quot;type&quot;:&quot;externalId&quot;},{&quot;column&quot;: 1,&quot;type&quot;:&quot;name&quot;}]&#39;)\
+ | grep -v HAS_ACCEPTED_NAME\
+ | cut -f2\
+ | tail -n+2</code></pre>
 <pre><code>Lasiurus ega
 Hipposideros swinhoii  </code></pre>
 </section>

@@ -23,7 +23,7 @@ aspectratio: 169
 
 ## At NASBR 2025 
 
-Jorrit -> Ariandna -> Sonja -> Meike -> Bat1k data 
+Jorrit -> Ariadna -> Sonja -> Meike -> Bat1k data 
 
 ## Google Sheet
 
@@ -42,9 +42,7 @@ https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2
 ]
 
 
-### Automated Taxonomic Alignment bat1k 
-
-Using Nomer ^[Poelen, J. H. (ed . ) . (2024). Nomer Corpus of Taxonomic Resources hash://sha256/b60c0d25a16ae77b24305782017b1a270b79b5d1746f832650f2027ba536e276 hash://md5/17f1363a277ee0e4ecaf1b91c665e47e (0.27) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12695629]
+## Deriving bat1k.tsv 
 
 ```
 preston cat\
@@ -61,12 +59,15 @@ preston cat\
 
 ## Taxonomic Alignement through Nomer - Find (mis-)Alignments
 
+Using Nomer ^[Poelen, J. H. (ed . ) . (2024). Nomer Corpus of Taxonomic Resources hash://sha256/b60c0d25a16ae77b24305782017b1a270b79b5d1746f832650f2027ba536e276 hash://md5/17f1363a277ee0e4ecaf1b91c665e47e (0.27) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12695629]
+
 ```
 cat bat1k.tsv\
  | nomer append\
- --properties $(echo 'nomer.schema.input=[{"column":0,"type":"externalId"},{"column": 1,"type":"name"}]')\
- | grep NONE\
- | cut -f2
+ --properties <(echo 'nomer.schema.input=[{"column":0,"type":"externalId"},{"column": 1,"type":"name"}]')\
+ | grep -v HAS_ACCEPTED_NAME\
+ | cut -f2\
+ | tail -n+2
 ```
 
 ```
