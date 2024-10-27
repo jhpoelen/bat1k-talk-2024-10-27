@@ -27,7 +27,7 @@ Jorrit -> Ariandna -> Sonja -> Meike -> Bat1k data
 
 ## Google Sheet
 
-![Best103assembly_metadata_phase1_v1.2 accessed at https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2PFM/edit?gid=0#gid=0 on 2024-10-27.](./img/google-sheets.png)
+![Best103assembly_metadata_phase1_v1.2 accessed at https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2PFM/edit?gid=0#gid=0 on 2024-10-27.](./img/google-sheets.png){height=75%}
 
 ## Google Sheet -> Versioned, Machine Readable Data Package
 
@@ -38,7 +38,7 @@ https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2
  | sha256sum
 ```
 
-![signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999](img/qrcode.png)
+![signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999](img/qrcode.png){height=75%}
 ]
 
 
@@ -86,5 +86,4 @@ Hipposideros swinhoii
  * implement automated data review workflow
  * implement automated data product workflow
 
-![Geiselman, Cullen K. & Sarah Younger. 2020. Bat Eco-Interactions Database. www.batbase.org https://github.com/globalbioticinteractions/batbase/archive/9c65cfeee1a054f9db8cd8bf6892017fd1b3c840.zip 2024-10-25T22:39:59.352Z 6755e9ff065849a8a7472858e98b62458fab93e4c20006f823e844a3ee77f5f2 see also https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/batbase/](img/datareview-summary.png)
-
+![Geiselman, Cullen K. & Sarah Younger. 2020. Bat Eco-Interactions Database. www.batbase.org https://github.com/globalbioticinteractions/batbase/archive/9c65cfeee1a054f9db8cd8bf6892017fd1b3c840.zip 2024-10-25T22:39:59.352Z 6755e9ff065849a8a7472858e98b62458fab93e4c20006f823e844a3ee77f5f2 see also https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/batbase/](img/datareview.png){height=75%}
