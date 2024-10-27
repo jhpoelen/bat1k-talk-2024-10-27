@@ -1,0 +1,14 @@
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Agent> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<https://preston.guoda.bio> <http://purl.org/dc/terms/description> "Preston is a software program that finds, archives and provides access to biodiversity datasets."@en <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <http://purl.org/dc/terms/description> "An activity that assigns an alias to a content hash"@en <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <http://www.w3.org/ns/prov#startedAtTime> "2024-06-18T20:12:14.528Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <http://www.w3.org/ns/prov#wasStartedBy> <https://preston.guoda.bio> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Software> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<https://doi.org/10.5281/zenodo.1410543> <http://purl.org/dc/terms/bibliographicCitation> "Jorrit Poelen, Icaro Alzuru, & Michael Elliott. 2018-2024. Preston: a biodiversity dataset tracker (Version 0.8.6-SNAPSHOT) [Software]. Zenodo. https://doi.org/10.5281/zenodo.1410543"@en <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://purl.org/dc/terms/description> "A biodiversity dataset graph archive."@en <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<hash://sha256/83617875e84bb8ae7ac2a257ad50eb8e82d8935d975f465b8ee8f3a803f72b48> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .
+<worms:worms.json.gz> <http://purl.org/pav/hasVersion> <hash://sha256/0a6625167b6943d31cfa737dd5f6f123c767d236194f6a1c97c44f678d9fcaa7> <urn:uuid:bf141eb6-1bb7-4d3c-9bb0-098b05a2f10b> .

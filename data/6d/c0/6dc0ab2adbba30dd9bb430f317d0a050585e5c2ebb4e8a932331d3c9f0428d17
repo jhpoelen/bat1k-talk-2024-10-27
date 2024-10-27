@@ -1,0 +1,20 @@
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Agent> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<https://preston.guoda.bio> <http://purl.org/dc/terms/description> "Preston is a software program that finds, archives and provides access to biodiversity datasets."@en <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <http://purl.org/dc/terms/description> "A crawl event that discovers biodiversity archives."@en <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <http://www.w3.org/ns/prov#startedAtTime> "2023-03-02T20:17:39.791Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <http://www.w3.org/ns/prov#wasStartedBy> <https://preston.guoda.bio> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Software> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<https://doi.org/10.5281/zenodo.1410543> <http://purl.org/dc/terms/bibliographicCitation> "Jorrit Poelen, Icaro Alzuru, & Michael Elliott. 2021. Preston: a biodiversity dataset tracker (Version 0.5.4) [Software]. Zenodo. http://doi.org/10.5281/zenodo.1410543"@en <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://purl.org/dc/terms/description> "A biodiversity dataset graph archive."@en <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<hash://sha256/c7f53b23bbeb150dc3454839e25c806229e3414132071b391828bb06400360be> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> .
+<hash://sha256/39dd4460f01f7dd801fd47dafa95f92bb03e8310aaee8db7cb6ef3418b7cb519> <http://www.w3.org/ns/prov#wasGeneratedBy> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<hash://sha256/39dd4460f01f7dd801fd47dafa95f92bb03e8310aaee8db7cb6ef3418b7cb519> <http://www.w3.org/ns/prov#qualifiedGeneration> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <http://www.w3.org/ns/prov#generatedAtTime> "2023-03-02T20:18:15.033Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Generation> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <http://www.w3.org/ns/prov#wasInformedBy> <urn:uuid:6326d3bd-5903-4895-8dc5-b114a5bfb0b4> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> <http://www.w3.org/ns/prov#used> <https://www.discoverlife.org/mp/20q/?act=x_checklist&guide=Apoidea_species&flags=HAS> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
+<https://www.discoverlife.org/mp/20q/?act=x_checklist&guide=Apoidea_species&flags=HAS> <http://purl.org/pav/hasVersion> <hash://sha256/39dd4460f01f7dd801fd47dafa95f92bb03e8310aaee8db7cb6ef3418b7cb519> <urn:uuid:06373ebf-54bf-452a-bc1a-95b210e78afc> .
