@@ -40,13 +40,14 @@ https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2
 ```
 
 ![signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999](img/qrcode.png){height=75%}
-]
+
 
 
 ## Deriving bat1k.tsv 
 
 ```
 preston cat\
+ --remote https://linker.bio,https://softwareheritage.org\
  hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999\
  | grep hasVersion\
  | grep tsv\

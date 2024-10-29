@@ -116,13 +116,17 @@ class="slide level2">
  --message &quot;BatLit genome index&quot;\
 https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2PFM/edit?gid=0#gid=0\
  | sha256sum</code></pre>
-<p><img data-src="img/qrcode.png" style="height:75.0%"
+<figure>
+<img data-src="img/qrcode.png" style="height:75.0%"
 alt="signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999" />
-]</p>
+<figcaption aria-hidden="true">signature of data1k data package:
+hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999</figcaption>
+</figure>
 </section>
 <section id="deriving-bat1k.tsv" class="slide level2">
 <h2>Deriving bat1k.tsv</h2>
 <pre><code>preston cat\
+ --remote https://linker.bio,https://softwareheritage.org\
  hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999\
  | grep hasVersion\
  | grep tsv\
