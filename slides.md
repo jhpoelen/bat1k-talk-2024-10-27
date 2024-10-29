@@ -34,7 +34,7 @@ Jorrit -> Ariadna -> Sonja -> Meike -> Bat1k data
 
 ```
 preston track\
- --message "BatLit genome index"\
+ --message "Bat1K Genome Index"\
 https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2PFM/edit?gid=0#gid=0\
  | sha256sum
 ```
