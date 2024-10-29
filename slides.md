@@ -65,7 +65,7 @@ Using Nomer ^[Poelen, J. H. (ed . ) . (2024). Nomer Corpus of Taxonomic Resource
 ```
 cat bat1k.tsv\
  | nomer append\
- --properties <(echo 'nomer.schema.input=[{"column":0,"type":"externalId"},{"column": 1,"type":"name"}]')\
+ --properties <(echo 'nomer.schema.input=[{"column":0,"type":"externalId"},{"column": 1,"type":"name"}]') mdd\
  | grep -v HAS_ACCEPTED_NAME\
  | cut -f2\
  | tail -n+2

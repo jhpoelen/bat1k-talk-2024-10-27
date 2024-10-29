@@ -137,7 +137,7 @@ class="slide level2">
 role="doc-noteref"><sup>3</sup></a></p>
 <pre><code>cat bat1k.tsv\
  | nomer append\
- --properties &lt;(echo &#39;nomer.schema.input=[{&quot;column&quot;:0,&quot;type&quot;:&quot;externalId&quot;},{&quot;column&quot;: 1,&quot;type&quot;:&quot;name&quot;}]&#39;)\
+ --properties &lt;(echo &#39;nomer.schema.input=[{&quot;column&quot;:0,&quot;type&quot;:&quot;externalId&quot;},{&quot;column&quot;: 1,&quot;type&quot;:&quot;name&quot;}]&#39;) mdd\
  | grep -v HAS_ACCEPTED_NAME\
  | cut -f2\
  | tail -n+2</code></pre>
