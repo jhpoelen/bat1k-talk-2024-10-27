@@ -9,11 +9,11 @@ aspectratio: 169
 
 ## Guiding Questions
 
-### How to keep track of Bat1k data corpus?
+### How to keep track of Bat1K data corpus?
 
-### How to cite specific versions of the Bat1k data corpora?
+### How to cite specific versions of the Bat1K data corpora?
 
-### How to share specific versions of the Bat1k data corpora?
+### How to share specific versions of the Bat1K data corpora?
 
 ## Reuse, reuse, reuse.
 
@@ -24,7 +24,7 @@ aspectratio: 169
 
 ## At NASBR 2024 
 
-Jorrit -> Ariadna -> Sonja -> Meike -> Bat1k data 
+Jorrit -> Ariadna -> Sonja -> Meike -> Bat1K data 
 
 ## Google Sheet
 
