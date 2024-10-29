@@ -1,7 +1,8 @@
 ---
 author:
   - Jorrit Poelen (UC Santa Barbara, Ronin Institute, GloBI)
-title: "Mobilizing Bat1K through versioned, machine readable and automatically generated data publications."
+title: "Mobilizing Bat1K"
+subtitle: "through versioned, machine readable and automatically generated data publications."
 date: 2024-10-27
 aspectratio: 169
 ---
@@ -21,7 +22,7 @@ aspectratio: 169
  * Signed Data Citations ^[Elliott M.J., Poelen, J.H. & Fortes, J.A.B. (2023) Signing data citations enables data verification and citation persistence. *Sci Data*. https://doi.org/10.1038/s41597-023-02230-y [hash://sha256/f849c870565f608899f183ca261365dce9c9f1c5441b1c779e0db49df9c2a19d](https://linker.bio/hash://sha256/f849c870565f608899f183ca261365dce9c9f1c5441b1c779e0db49df9c2a19d)]
 
 
-## At NASBR 2025 
+## At NASBR 2024 
 
 Jorrit -> Ariadna -> Sonja -> Meike -> Bat1k data 
 
