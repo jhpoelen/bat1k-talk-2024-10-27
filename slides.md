@@ -18,7 +18,7 @@ aspectratio: 169
 ## Reuse, reuse, reuse.
 
  * Darwin Core Archive -> GBIF, GloBI 
- * Taxonomic Alignement Tools ^[https://github.com/globalbioticinteractions/nomer] -> align with specific versions MDD, NCBI Taxonomy
+ * Taxonomic Alignment Tools ^[https://github.com/globalbioticinteractions/nomer] -> align with specific versions MDD, NCBI Taxonomy
  * Signed Data Citations ^[Elliott M.J., Poelen, J.H. & Fortes, J.A.B. (2023) Signing data citations enables data verification and citation persistence. *Sci Data*. https://doi.org/10.1038/s41597-023-02230-y [hash://sha256/f849c870565f608899f183ca261365dce9c9f1c5441b1c779e0db49df9c2a19d](https://linker.bio/hash://sha256/f849c870565f608899f183ca261365dce9c9f1c5441b1c779e0db49df9c2a19d)]
 
 
@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1kDVtj_D71oGMz8vH_sLA4AMp8AxmMA7YWqBowOI2
  | sha256sum
 ```
 
-![signature of data1k data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999](img/qrcode.png){height=75%}
+![Signature of Bat1K data package: hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999 .](img/qrcode.png){height=75%}
 
 
 
@@ -59,7 +59,7 @@ preston cat\
   
 
 
-## Taxonomic Alignement through Nomer - Find (mis-)Alignments
+## Taxonomic Alignment through Nomer: Find (mis-)Alignments
 
 Using Nomer ^[Poelen, J. H. (ed . ) . (2024). Nomer Corpus of Taxonomic Resources hash://sha256/b60c0d25a16ae77b24305782017b1a270b79b5d1746f832650f2027ba536e276 hash://md5/17f1363a277ee0e4ecaf1b91c665e47e (0.27) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12695629]
 
