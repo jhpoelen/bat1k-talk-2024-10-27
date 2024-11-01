@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-  <meta name="author" content="Jorrit Poelen (UC Santa Barbara, Ronin Institute, GloBI)">
+  <meta name="author" content="Jorrit Poelen (UC Santa Barbara Cheadle Center, Ronin Institute, GloBI)">
   <meta name="dcterms.date" content="2024-10-27">
   <title>Mobilizing Bat1K</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -69,8 +69,8 @@
   <h1 class="title">Mobilizing Bat1K</h1>
   <p class="subtitle">through versioned, machine readable and
 automatically generated data publications.</p>
-  <p class="author">Jorrit Poelen (UC Santa Barbara, Ronin Institute,
-GloBI)</p>
+  <p class="author">Jorrit Poelen (UC Santa Barbara Cheadle Center,
+Ronin Institute, GloBI)</p>
   <p class="date">2024-10-27</p>
 </section>
 
@@ -132,6 +132,7 @@ hash://sha256/710cccc378e6d41e7d2e214bcaf08af76886d9df6e389dc0177c1460fb5c3999
  | grep hasVersion\
  | grep tsv\
  | preston cat\
+ --remote https://linker.bio,https://softwareheritage.org\
  | tail -n+2\
  | tee bat1k.tsv</code></pre>
 </section>

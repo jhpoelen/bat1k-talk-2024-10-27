@@ -1,6 +1,6 @@
 ---
 author:
-  - Jorrit Poelen (UC Santa Barbara, Ronin Institute, GloBI)
+  - Jorrit Poelen (UC Santa Barbara Cheadle Center, Ronin Institute, GloBI)
 title: "Mobilizing Bat1K"
 subtitle: "through versioned, machine readable and automatically generated data publications."
 date: 2024-10-27
@@ -52,6 +52,7 @@ preston cat\
  | grep hasVersion\
  | grep tsv\
  | preston cat\
+ --remote https://linker.bio,https://softwareheritage.org\
  | tail -n+2\
  | tee bat1k.tsv
 ```
