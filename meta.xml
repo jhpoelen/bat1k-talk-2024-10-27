@@ -11,6 +11,7 @@
     <field index="4" term="http://rs.tdwg.org/dwc/terms/country"/>
     <field index="5" term="http://rs.tdwg.org/dwc/terms/sex"/>
     <field index="6" term="http://rs.tdwg.org/dwc/terms/occurrenceRemarks"/>
+    <field default="MaterialSample" term="http://purl.org/dc/terms/basisOfRecord"/>
   </core>
 </archive>
  
