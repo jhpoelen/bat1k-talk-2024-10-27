@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ds="eml://ecoinformatics.org/dataset-2.1.1" packageId="ie.nbdc.dataset.MammalsOfIreland2016-2025" system="http://gbif.biodiversityireland.ie/" scope="system" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1">
+  <dataset>
+    <alternateIdentifier>MammalsOfIreland2016-2025</alternateIdentifier>
+    <title>Mammals of Ireland 2016-2025</title>
+    <creator>
+      <individualName>
+        <surName>Meike Mai</surName>
+      </individualName>
+      <organizationName>Bat1K Project</organizationName>
+      <address>
+        <deliveryPoint>National Biodiversity Data Centre, Carriganore WIT West Campus, Waterford, Ireland.</deliveryPoint>
+        <country>Ireland</country>
+      </address>
+      <phone>+353 51 306240</phone>
+      <electronicMailAddress>mm567@st-andrews.ac.uk</electronicMailAddress>
+      <onlineUrl>https://bat1k.com</onlineUrl>
+    </creator>
+    <pubDate>2024-11-06</pubDate>
+    <language>en</language>
+    <abstract>
+      <para>Bat1K Project</para>
+    </abstract>
+    <intellectualRights>
+      <para>This work is licensed under a<ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink></para>
+    </intellectualRights>
+    <contact>
+      <individualName>
+        <givenName>Meike</givenName>
+        <surName>Mai</surName>
+      </individualName>
+      <organizationName>Bat1K Project</organizationName>
+      <electronicMailAddress>mm567@st-andrews.ac.uk</electronicMailAddress>
+      <onlineUrl>https://bat1k.com/</onlineUrl>
+    </contact>
+  </dataset>
+</eml:eml>
