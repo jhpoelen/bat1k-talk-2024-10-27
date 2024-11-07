@@ -1,0 +1,104 @@
+family	scientificName	associatedSequences	associatedSequenceIds	countryName	sex	comment
+Myzopodidae	Myzopoda aurita	mMyzAur1.1.pri	hash://md5/d9ec2eec04ac1d0b65b9764a935889a4	Madagascar	female 	
+Emballonuridae	Rhynchonycteris naso	mRhyNas1.2.hap1	hash://md5/6fb135f08ae132757a26d937c94011e1	Panama	male	
+Emballonuridae	Saccopteryx bilineata	mSacBil1.1.pri	hash://md5/efbdb4a8db3b3445bae4ddeccee0746b	Suriname	male	
+Emballonuridae	Saccopteryx leptura	mSacLep1.1.pri	hash://md5/2c89ba972c613debb4a0d66fe86fb4e8	Panama	male	
+Emballonuridae	Taphozous melanopogon	mTapMel1.1.pri	hash://md5/133b05b1b898145f8dbcec31860af466	China	unknown	
+Nycteridae	Nycteris thebaica	mNycThe1.1.hap1	hash://md5/5f0fee7774646679fcae0721421ad5e9	Oman	male	
+Furipteridae	Furipterus horrens	mFurHor1.1.pri	hash://md5/afdc46bdb6ac8d6f4757ef003a5a27cf	Suriname	male	
+Mormoopidae	Mormoops megalophylla	mMorMeg1.1.pri	hash://md5/ced87723646fb6e1bea5b5283c535071	Curacao	male	
+Mystacinidae	Mystacina tuberculata	mMysTub1.2.pri	hash://md5/8572b84ee28dc19b3589e9512802b306	New Zealand	male	
+Noctilionidae	Noctilio leporinus	mNocLep2.1.pri	hash://md5/3e34996ecb28e78aa494869cc3512bab	Saint Kitts and Nevis	male	
+Phyllostomidae	Artibeus intermedius	mArtIn1.1.hap1	hash://md5/7145283927125a42c6380dd819ceedf7	Belize	male	
+Phyllostomidae	Artibeus lituratus	mArtLit1.1.hap1	hash://md5/c60737311de692e14335846687aad9e1	Belize	male	
+Phyllostomidae	Brachyphylla cavernarum	mBraCav1.1.hap1	hash://md5/fb934eb9e359ec78855c5fb7200f5328	Saint Kitts and Nevis	male	
+Phyllostomidae	Carollia perspicillata	mCarPer1.2.pri	hash://md5/c1eab90ed42091bd2147f7fc522c1984		male	captive
+Phyllostomidae	Centurio senex	mCenSen1.1.hap1	hash://md5/6a8f0a2db4d8f21fe53cc84e751a1afd	Belize	female 	
+Phyllostomidae	Choeroniscus minor	mChoMin1.1.hap1	hash://md5/d1ca83bc6dc815845e91507ffc18c6e8	Guyana	male	
+Phyllostomidae	Desmodus rotundus	mDesRot1.15.hap1	hash://md5/da089cfdddaaea2dd722a5c10abe1911	To be added 	To be added	
+Phyllostomidae	Diaemus youngii	mDiaYou1.3.hap1	hash://md5/5d3d33c270e3beeba063ea7fcf70f852	To be added 	To be added	
+Phyllostomidae	Diphylla ecaudata	mDipEca1.2.hap1	hash://md5/93a0b764cfa4dc6d0e9276a605350abc	Ecuador	male	
+Phyllostomidae	Ectophylla alba	mEctAlb1.1.hap1	hash://md5/f9269be297f81f5dae0466c453b0522a	Belize	female 	
+Phyllostomidae	Erophylla bombifrons	mEroBom1.1.hap1	hash://md5/d9ed2b538717c197b07d16309dab821d	Dominican Republic	male	
+Phyllostomidae	Glossophaga mutica	mGloMut1.1.hap1	hash://md5/f607aafd71bf37d4c70c2b7caeddd2cc	Belize	male	
+Phyllostomidae	Glossophaga soricina	mGloSor1.2.pri	hash://md5/892714304672a5d4a37c7cb1d7a8fdb4	Panama	To be added	
+Phyllostomidae	Glyphonycteris daviesi	mGlyDav1.1.hap1	hash://md5/c181cc78d810350788cf09192512b29d	Guyana	male	
+Phyllostomidae	Leptonycteris yerbabuenae	mLepYer2.1.hap1	hash://md5/ee0f0cfa5ba63b7def8252bd8c459996	Mexico	To be added	captive, but originates from Mexico
+Phyllostomidae	Lionycteris spurrelli	mLioSpu1.1.hap1	hash://md5/92c8adf634bc2fbe8445c01969e84fe6	Suriname	male	
+Phyllostomidae	Lonchorhina inusitata	mLonInu1.1.hap1	hash://md5/f09e8201d8c82e0f9b2e4f35e5d797cb	Suriname	To be added	
+Phyllostomidae	Macrophyllum macrophyllum	mMacMac1.1.hap1	hash://md5/c2bf29319933c4ff63c5217f78532026	Guyana	male	
+Phyllostomidae	Macrotus waterhousii	mMacWat1.1.hap1	hash://md5/5e8441158a5e656fd90a41df812ed5c2	Dominican Republic	male	
+Phyllostomidae	Micronycteris megalotis	mMicMeg1.1.pri	hash://md5/215fd730a7db6a04275c2b774a69ba95	Colombia	male	
+Phyllostomidae	Phyllostomus discolor	mPhyDis1.3.pri	hash://md5/75e9507793e9ec0235dc29004bbdb4a1	Colony orignated from Trinidad, West Indies	male	captive
+Phyllostomidae	Phyllostomus hastatus	mPhyHas1.1.pri	hash://md5/c7d9759c0db1d378652e5ae34ca10e9b	Panama	male	
+Phyllostomidae	Platyrrhinus guianensis	mPlaGui1.1.hap1	hash://md5/8ce21527fc5af0a6d2f5218c4e82e305	Suriname	male	
+Phyllostomidae	Rhinophylla pumilio	mRhiPum1.1.hap1	hash://md5/b5763f2eec940a8abe972e5e28c0dc4d	Suriname	male	
+Phyllostomidae	Trachops cirrhosus	mTraCir3.1.hap1	hash://md5/4018aa57a8b6228662748ac6d55e3231	Suriname	male	
+Phyllostomidae	Trinycteris nicefori	mTriNic1.1.hap1	hash://md5/fb72e70b3b677ac79e00dc388803f1fd	Suriname	male	
+Phyllostomidae	Uroderma convexum	mUroCon1.1.pri	hash://md5/5c1c9f946526b8b44af75d2b50984306	To be added 	male	
+Phyllostomidae	Vampyressa thyone	mVamThy1.1.hap1	hash://md5/b6ccb8b09d59a3548a23dc98313968eb	Suriname	male	
+Thyropteridae	Thyroptera tricolor	mThyTri1.1.pri	hash://md5/e9759643252c25b71f73ef5156557f60	To be added 	To be added	
+Cistugidae	Cistugo seabrae	mCisSea1.1.hap1	hash://md5/1689cfef2cf71b25377dd10485b66e18	Namibia	female 	
+Miniopteridae	Miniopterus australis	mMinAus1.1.pri	hash://md5/a787957d5598faca02fe8993774f86b2	Malaysia	male	
+Miniopteridae	Miniopterus natalensis	mMinNat1.1.hap2	hash://md5/4085b1b4b8b1a1fc8803177843729934	Malawi	female 	
+Miniopteridae	Miniopterus schreibersii	mMinSch1.1.hap1	hash://md5/1c24e98573aaf7d2971cb64875573681	Cyprus	male	
+Molossidae	Eumops nanus	mEumNan1.1.hap1	hash://md5/4f07cdb16221bfb9cd3a31d5fe1afb02	Belize	female 	
+Molossidae	Molossus alvarezi	mMolAlv1.1.hap1	hash://md5/385920047dafac93f8f93f5cb44212ce	Belize	female 	
+Molossidae	Molossus molossus	mMolMol1.2.pri	hash://md5/2f334e0a46f4fb77ab028b95f4c03793	Panama	male	
+Molossidae	Molossus nigricans	mMolNig1.2.hap1	hash://md5/98d347128b1bbcf666ed87bf3d31c25a	Belize	male	
+Molossidae	Mops condylurus	mMopCon1.1	hash://md5/d4de2041c45fc0f70321884716c2c245	Côte d'Ivoire	female 	To be double checked 
+Molossidae	Tadarida brasiliensis	mTadBra1.3.pri	hash://md5/49b3a7844045c0a461040d3c47ee0868	USA 	male	
+Natalidae	Natalus tumidirostris	mNatTum1.1.pri	hash://md5/604eb816da5ab0c1e7c8eedf694f71ff	Bonaire	male	
+Vespertilionidae	Antrozous pallidus	mAntPal2.1.pri	hash://md5/a1de2b5393a59a1b112a21a8c79b50aa	USA 	male	
+Vespertilionidae	Corynorhinus mexicanus	mCorMex1.1.pri	hash://md5/482600ef4b6e4b84a671cae22bd65a40	Mexico	male	
+Vespertilionidae	Corynorhinus townsendii	mCorTow1.1.hap1	hash://md5/7d6df22bcda3b822c0d4ef4c16629d0f	USA	male	
+Vespertilionidae	Eptesicus fuscus	mEptFus1.3.pri	hash://md5/25489eec8b71688ea2b51a4692eeadb0	USA	male	
+Vespertilionidae	Eptesicus nilssonii	mEptNil2.1.pri	hash://md5/bb402f7877e8aa3ddba6ef050a99bde2	Norway	To be added	
+Vespertilionidae	Lasiurus ega	mLasEga1.1.hap1	hash://md5/a77cea273a153c887a6a72e8ff7f1e55	Belize	female 	
+Vespertilionidae	Myotis auriculus	mMyoAur1.1.pri	hash://md5/e26193f6b69f2f96f974e6fa9a5cb00a	USA	male	
+Vespertilionidae	Myotis californicus	mMyoCal1.1.pri	hash://md5/53b086b74b462e8205b030d1cd978480	USA	female 	
+Vespertilionidae	Myotis daubentonii	mMyoDau2.1.pri	hash://md5/145bf2c5ca75843a366bfa984f99acf6	Switzerland	male	
+Vespertilionidae	Myotis evotis	mMyoEvo1.1.pri	hash://md5/6438ce4fd99b69ad82fd559ea3cbe23d	USA	male	
+Vespertilionidae	Myotis lucifugus	mMyoLuc2.1.pri	hash://md5/14640c6ba5808d849e7a24da73893182	USA	female 	
+Vespertilionidae	Myotis myotis	mMyoMyo1.6.pri	hash://md5/d47bd07e8d73a41253dae47a5f023906	France	female 	
+Vespertilionidae	Myotis mystacinus	mMyoMys1.1.hap1	hash://md5/12a99fd89d2cf8e4c027dd7cce827e06	England	male	
+Vespertilionidae	Myotis nigricans	mMyoNig1.1.pri	hash://md5/c66e0124b1a97e8b88f88ad2fea3918b	To be added 	To be added	
+Vespertilionidae	Myotis occultus	mMyoOcc1.1.pri	hash://md5/d3beb7a14891b0ca9693e70dab9333b6	USA	male	
+Vespertilionidae	Myotis pilosus	mMyoPil1.1.pri	hash://md5/63ef061f6b9d9a179ebbad0e91b4db72	China	unknown	
+Vespertilionidae	Myotis thysanodes	mMyoThy1.1.pri	hash://md5/8ea209949e4cae1f9da1e6cc9b7c7f37	USA	male	
+Vespertilionidae	Myotis velifer	mMyoVel1.1.pri	hash://md5/94c5501bb1ae09b48d88fdfedb1393d6	USA	male	
+Vespertilionidae	Myotis vivesi	mMyoViv1.2.pri	hash://md5/be0560d1bbbf928aa11e7d1eb23b2707	To be added 	To be added	
+Vespertilionidae	Myotis volans	mMyoVol1.1.pri	hash://md5/156f475b1da6b49944e1682f16f97330	USA	male	
+Vespertilionidae	Myotis yumanensis	mMyoYum1.1.hap1	hash://md5/027730304ec24a41a110079c77ce412d	USA	male	
+Vespertilionidae	Nyctalus aviator	mNycAvi1.1.pri	hash://md5/9714c1eeccacd9584ad8c97be9f62c78	China	female 	
+Vespertilionidae	Pipistrellus kuhlii	mPipKuh1.2.pri	hash://md5/fa22ac32dc992c98b304d9820fa7c75d	Italy	male	
+Vespertilionidae	Pipistrellus nathusii	mPipNat1.1.hap1	hash://md5/63747f60ade4d278497c07764b534dad	Latvia	male	
+Vespertilionidae	Pipistrellus pygmaeus	mPipPyg1.1.pri	hash://md5/881fe30fc347e60b6cbb73dd2e878366	Switzerland	male	
+Vespertilionidae	Plecotus auritus	mPleAur1.1.pri	hash://md5/f4f8cf44c41dfd1dcb7fb35bdd7da2bf	England	female 	
+Vespertilionidae	Vespertilio murinus	mVesMur1.1.pri	hash://md5/30be513247ad2cff464b1de6a744f83f	Belgium	male	
+Pteropodidae	Cynopterus sphinx	mCynSph1.1.pri	hash://md5/e6e79fda749fe086b8b4663b67812317	To be added 	female 	
+Pteropodidae	Eonycteris spelaea	mEonSpe1.2.hap1	hash://md5/18ac4c4c22eb9e3976b4cce2b3ac1094	To be added 	To be added	
+Pteropodidae	Hypsignathus monstrosus	mHypMon1.1.pri	hash://md5/0a358c2611bac5b577d812c2621dc495	1) Republic of Congo 2) Central African Republic	To be added	Assembly on genomic data of two individuals
+Pteropodidae	Rousettus aegyptiacus	mRouAeg1.4.pri	hash://md5/ccc2464eda2a55843b7ef5cf2cdb0be7		male	captive 
+Craseonycteridae	Craseonycteris thonglongyai	mCraTho2.1.hap1	hash://md5/87408e92871e5088e41f3ef31e0d390a	Thailand	male	
+Hipposideridae	Aselliscus stoliczkanus	mAseSto1.2.pri	hash://md5/b8db9a5136c8abb5d54f9ddf055ea7c2	China	female 	
+Hipposideridae	Doryrhina cyclops	mDorCyc1.2.pri	hash://md5/b86aaff5d67994053e3995a1f242714d	Côte d'Ivoire	female 	
+Hipposideridae	Hipposideros abae	mHipAba1.1.hap1	hash://md5/35c43362dffc4fa21ef14027e445b510	Ghana	female 	
+Hipposideridae	Hipposideros armiger	mHipArm2.1.pri	hash://md5/1d1d99bb49e591a2c95a40421b297bb0	China	unknown	
+Hipposideridae	Hipposideros caffer	mHipCaf2.1.hap1	hash://md5/762bb68d066d99e4438bc121277d211e	Ghana	female 	
+Hipposideridae	Hipposideros jonesi	mHipJon1.1.hap1	hash://md5/e00ec81be9d54dc17ecf197853fad0fd	Ghana	female 	
+Hipposideridae	Hipposideros larvatus	mHipLar1.2.pri	hash://md5/0533d656b2e016f982f7d55eab8ae74e	China	male	
+Hipposideridae	Hipposideros swinhoii	mHipSwi1.1.pri	hash://md5/857d3cfa7f02d00136012694142c5aa0	China	unknown	
+Megadermatidae	Megaderma spasma	mMegSpa1.1.pri	hash://md5/03c92edf21a636d953083a717317664d	Vietnam	male	
+Rhinolophidae	Rhinolophus affinis	mRhiAff1.2.pri	hash://md5/95e97993d7777a3f1e1196a83d5201ef	China	male	
+Rhinolophidae	Rhinolophus ferrumequinum	mRhiFer1.5.pri	hash://md5/c8dd4db7ae3bd194fee3cd88214cef45	England	female 	
+Rhinolophidae	Rhinolophus foetidus	mRhiFoe1.2.pri	hash://md5/e92bd50d60c080434602213bea2e36d9	To be added 	To be added	
+Rhinolophidae	Rhinolophus hipposideros	mRhiHip1.1.hap1	hash://md5/621aaccd06b52dd0845c8b4b6c685150	To be added 	To be added	
+Rhinolophidae	Rhinolophus pearsonii	mRhiPea1.1.pri	hash://md5/77b75486bef874033dca104ca15a8142	China	unknown	
+Rhinolophidae	Rhinolophus perniger lanosus	mRhiPer1.2.pri	hash://md5/b5bd1628d47843f9f0d8efc760d5f6b6	China	male	
+Rhinolophidae	Rhinolophus sinicus	mRhiSin3.1.pri	hash://md5/95d418f8705755d871a810c62a8b43b6	China	unknown	
+Rhinolophidae	Rhinolophus trifoliatus	mRhiTri1.2.pri	hash://md5/b52e907ad584956b69218ab58867d896	Malaysia	male	
+Rhinolophidae	Rhinolophus yonghoiseni	mRhiYon1.2.pri	hash://md5/71673350ac1bae54abedaedcf7d7ffb4	Malaysia	female 	
+Rhinonycteridae	Triaenops persicus	mTriPer1.1.hap1	hash://md5/98088b470c984d4b7b58e366ecc27ae6	Oman	female 	
+Rhinopomatidae	Rhinopoma microphyllum	mRhiMic1.1.pri	hash://md5/d8cbdd91a15016becceb632aa35736b3	Israel	male	
+Rhinopomatidae	Rhinopoma muscatellum	mRhiMus1.1.pri	hash://md5/e9b6174693ff26c2ae3f820148979936	Oman	male	
