@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=metadata.json
+
+title: Bat1k Sequences
+alias: bat1k
+
+description: A list of genomic sequences of bats
+
+keyword: 
+  - bats
+  - Chiroptera
+  - genomic
+
+issued: 2024-11-06
+version: 2024-11-06
+
+# Single point of contact for questions
+creator:
+  given: Meike
+  family: Mai
+  email: mm567@st-andrews.ac.uk
+  organization: Bat1K
+
+creator:
+  given: Meike
+  family: Mai
+  email: mm567@st-andrews.ac.uk
+  organization: Bat1K
+
+
+geographicScope: global
+taxonomicScope: Chiroptera
+temporalScope: 
+
+license: CC0-1.0
+
+url: https://github.com/jhpoelen/bat1k-talk-2024-10-27
+logo: 
+
+source:
+  - id: bat1k
+    type: WEBPAGE
+    title: Bat1K is an initiative to sequence the genomes of all living bat species
+    url: https://www.bat1k.com
