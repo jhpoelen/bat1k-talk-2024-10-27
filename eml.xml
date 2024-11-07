@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eml:eml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ds="eml://ecoinformatics.org/dataset-2.1.1" packageId="ie.nbdc.dataset.MammalsOfIreland2016-2025" system="http://gbif.biodiversityireland.ie/" scope="system" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1">
   <dataset>
-    <alternateIdentifier>MammalsOfIreland2016-2025</alternateIdentifier>
-    <title>Mammals of Ireland 2016-2025</title>
+    <title>Bat1K: available genome sequences for living bat (Chiroptera) species.</title>
     <creator>
       <individualName>
         <surName>Meike Mai</surName>
       </individualName>
       <organizationName>Bat1K Project</organizationName>
-      <address>
-        <deliveryPoint>National Biodiversity Data Centre, Carriganore WIT West Campus, Waterford, Ireland.</deliveryPoint>
-        <country>Ireland</country>
-      </address>
-      <phone>+353 51 306240</phone>
       <electronicMailAddress>mm567@st-andrews.ac.uk</electronicMailAddress>
       <onlineUrl>https://bat1k.com</onlineUrl>
     </creator>
     <pubDate>2024-11-06</pubDate>
     <language>en</language>
     <abstract>
-      <para>Bat1K Project</para>
+      <para>Bat1K is an initiative to sequence the genomes of all living bat species, approximately 1400 species in total. The main goal of this consortium is to uncover the genes and genetic mechanisms behind the unusual adaptations of bats, essentially mine the bat genome to uncover their secrets. Using the newest of our genetic tools, we will deep sequence the blue print and genetic code of every species of bat in the world. It took over 13 years and $3 billion US dollars to sequence the first human genome, and given the great advances in the field it is now much faster and cheaper. We must put these fantastic technological advances to good use and push them to achieve their full potential. Imagine uncovering the secret of longer health-spans, flight, echolocation and disease resistance hidden in the bat genome.</para>
+       <para>This project is only possible by the mobilisation of bat researchers, volunteers, students and bat lovers throughout the globe. Initiating this mobilisation and bringing bat researchers, field biologists, grass-roots conservation organisations and lay people together from across the globe will allow us to identify and locate all species of bat, so that we can uncover their secrets. Essentially, we will form an active vibrant community of individuals united by a common drive to conserve, better understand and promote bats.</para>
     </abstract>
     <intellectualRights>
       <para>This work is licensed under a<ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink></para>
